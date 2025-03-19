@@ -16,3 +16,4 @@ if temperatura <= 80:
 else:
     print ("el motor se aparara por sobre calentamiento")
 print("fin del proceso")
+
